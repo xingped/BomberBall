@@ -1,0 +1,6 @@
+C:\School\Spring11\AI\Bann\AI\bin\x86\Debug\AI.dll
+C:\School\Spring11\AI\Bann\AI\bin\x86\Debug\AI.pdb
+C:\School\Spring11\AI\Bann\AI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\School\Spring11\AI\Bann\AI\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\School\Spring11\AI\Bann\AI\obj\x86\Debug\AI.dll
+C:\School\Spring11\AI\Bann\AI\obj\x86\Debug\AI.pdb

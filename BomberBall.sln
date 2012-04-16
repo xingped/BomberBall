@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platform", "AI\Platform.csproj", "{831892E4-EAB9-49F8-A524-6EEEEC3544FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BomberBall", "BomberBall\BomberBall\BomberBall.csproj", "{C67FDC09-D59D-430A-A0A8-2A2E466CC4A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameContent", "BomberBall\GameContent\GameContent.contentproj", "{CBC6E92E-599D-46E8-BFCF-DA063C0CB4AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{831892E4-EAB9-49F8-A524-6EEEEC3544FD}.Debug|x86.ActiveCfg = Debug|x86
+		{831892E4-EAB9-49F8-A524-6EEEEC3544FD}.Debug|x86.Build.0 = Debug|x86
+		{831892E4-EAB9-49F8-A524-6EEEEC3544FD}.Release|x86.ActiveCfg = Release|x86
+		{831892E4-EAB9-49F8-A524-6EEEEC3544FD}.Release|x86.Build.0 = Release|x86
+		{C67FDC09-D59D-430A-A0A8-2A2E466CC4A0}.Debug|x86.ActiveCfg = Debug|x86
+		{C67FDC09-D59D-430A-A0A8-2A2E466CC4A0}.Debug|x86.Build.0 = Debug|x86
+		{C67FDC09-D59D-430A-A0A8-2A2E466CC4A0}.Release|x86.ActiveCfg = Release|x86
+		{C67FDC09-D59D-430A-A0A8-2A2E466CC4A0}.Release|x86.Build.0 = Release|x86
+		{CBC6E92E-599D-46E8-BFCF-DA063C0CB4AA}.Debug|x86.ActiveCfg = Debug|x86
+		{CBC6E92E-599D-46E8-BFCF-DA063C0CB4AA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

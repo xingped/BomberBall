@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\CoverMenu.png</Source>
+      <Name>Images\CoverMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\Images\CoverMenu.xnb</Output>
+      <Time>2011-03-24T21:53:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ModeSelect.png</Source>
+      <Name>Images\ModeSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\Images\ModeSelect.xnb</Output>
+      <Time>2011-03-24T21:57:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pointer_crosshair.png</Source>
+      <Name>Images\pointer_crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\Images\pointer_crosshair.xnb</Output>
+      <Time>2011-03-25T00:13:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menu_font.spritefont</Source>
+      <Name>Fonts\menu_font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\Fonts\menu_font.xnb</Output>
+      <Time>2011-04-09T15:36:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\title_font.spritefont</Source>
+      <Name>Fonts\title_font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\Fonts\title_font.xnb</Output>
+      <Time>2011-04-09T17:07:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>agent1.x</Source>
+      <Name>agent1</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\agent1.xnb</Output>
+      <Time>2011-02-08T17:01:12-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\agent1_0.xml</Key>
+        <Value>2011-04-24T21:35:34.109375-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>agent_target1.x</Source>
+      <Name>agent_target1</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\agent_target1.xnb</Output>
+      <Time>2011-03-10T11:54:24-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\agent_target1_0.xml</Key>
+        <Value>2011-04-24T21:35:35.015625-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>floor.x</Source>
+      <Name>floor</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">10</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\floor.xnb</Output>
+      <Time>2011-01-30T23:27:52-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\floor_0.xml</Key>
+        <Value>2011-04-24T21:35:36.234375-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>wall.x</Source>
+      <Name>wall</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">3</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\wall.xnb</Output>
+      <Time>2011-01-30T22:58:06-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\wall_0.xml</Key>
+        <Value>2011-04-24T21:35:37.140625-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>bomb.x</Source>
+      <Name>bomb</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\bomb.xnb</Output>
+      <Time>2011-04-11T18:20:49-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\bomb_0.xml</Key>
+        <Value>2011-04-24T21:35:38.078125-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>block.x</Source>
+      <Name>block</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">2</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\block.xnb</Output>
+      <Time>2011-04-20T16:35:04-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\block_0.xml</Key>
+        <Value>2011-04-24T21:35:38.96875-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\block2.x</Source>
+      <Name>Models\block2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">3</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\Models\block2.xnb</Output>
+      <Time>2011-04-22T12:31:38-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\block2_0.xml</Key>
+        <Value>2011-04-24T21:35:39.875-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\wall2.x</Source>
+      <Name>Models\wall2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">3</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\Models\wall2.xnb</Output>
+      <Time>2011-04-22T12:31:38-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\wall2_0.xml</Key>
+        <Value>2011-04-24T21:35:40.734375-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>navNode.x</Source>
+      <Name>navNode</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\navNode.xnb</Output>
+      <Time>2011-04-24T14:36:08-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\navNode_0.xml</Key>
+        <Value>2011-04-24T21:35:41.59375-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>agent1.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\agent1_0.xml</Output>
+      <Time>2011-02-08T17:01:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>agent_target1.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\agent_target1_0.xml</Output>
+      <Time>2011-03-10T11:54:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>floor.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\floor_0.xml</Output>
+      <Time>2011-01-30T23:27:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>wall.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\wall_0.xml</Output>
+      <Time>2011-01-30T22:58:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bomb.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\bomb_0.xml</Output>
+      <Time>2011-04-11T18:20:49-04:00</Time>
+    </Item>
+    <Item>
+      <Source>block.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\block_0.xml</Output>
+      <Time>2011-04-20T16:35:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\block2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\block2_0.xml</Output>
+      <Time>2011-04-22T12:31:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\wall2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\wall2_0.xml</Output>
+      <Time>2011-04-22T12:31:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>navNode.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\navNode_0.xml</Output>
+      <Time>2011-04-24T14:36:08-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\BannContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\BannContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\HP_Owner\My Documents\Dropbox\AI_Assignment1\Bann_24April2_2\Bann\Bann\Bann\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-02-01T13:28:28.203125-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

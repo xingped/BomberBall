@@ -1,0 +1,17 @@
+BomberBall
+-------------
+BomberBall is a student-created project by Josh Cook, Paul Gatterdam, and Ryan
+McPadden. This project demonstrates AI techniques such as state machines, 
+agent sensors, and A* pathfinding. It also includes procedural map generation 
+techniques for a unique experience every game.
+
+The source code requires Visual Studio and XNA Game Studio 4.0
+
+Controls:
+WASD - Move
+Space - Drop Bomb
+
+Objective:
+Destroy all your opponents and try not to kill yourself.
+
+Good luck!
